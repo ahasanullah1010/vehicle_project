@@ -1,0 +1,32 @@
+[
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "40000",
+        "image": "https:\/\/www.autotribute.com\/wp-content\/gallery\/bmw-i8-plug-in-hybrid-sports-car\/bmw-i8-supercar-race-track.jpg"
+    },
+    {
+        "name": "BMW",
+        "type": "Car",
+        "price": "130000",
+        "image": "https:\/\/wallup.net\/wp-content\/uploads\/2019\/09\/571-bmw-i8.jpg"
+    },
+    {
+        "name": "Royal Enfield",
+        "type": "bike",
+        "price": "20000",
+        "image": "https:\/\/resize.indiatvnews.com\/en\/resize\/newbucket\/1200_-\/2023\/01\/re-super-meteriote-1672990328.jpg"
+    },
+    {
+        "name": "Honda",
+        "type": "bike",
+        "price": "40000",
+        "image": "https:\/\/www.moto-data.net\/media\/honda\/pics\/honda-cbr-1000rr-fireblade-c-abs-2011[1].jpg"
+    },
+    {
+        "name": "Cycle",
+        "type": "cycle",
+        "price": "14000",
+        "image": "https:\/\/th.bing.com\/th\/id\/OIP.j59_CD9-4XQP7h_l5psNeQAAAA?rs=1&pid=ImgDetMain"
+    }
+]
